@@ -117,5 +117,8 @@ header h1{
     color: #007bff; /* Changes color when hovered */
 }
 
+.custom-text {
+    color: red;
+  }
 
 
