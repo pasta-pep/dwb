@@ -1,6 +1,12 @@
+@font-face {
+    font-family: 'Akzidanze';
+    src: url(AkzidGroProReg.otf);
+}
+
+
 body {
 color: blue;
-
+font-family: "Akzidanze";
 }
 
 .assets-page {
