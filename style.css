@@ -20,7 +20,7 @@ color: blue;
 }
 
 .table-of-contents {
-    border: 2px solid black; /* Border around the entire div */
+    border: 2px  black; /* Border around the entire div */
     height: 910px;
     padding: 10px; /* Adds space inside the border */
     width: fit-content; /* Shrinks the div to fit its content */
